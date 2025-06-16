@@ -1,7 +1,7 @@
 ## Intro
 This repo currently contains `8 paid plugins` that you can download for free.
 This repo is constantly getting updated with new and improved plugins.
-Last update `06/13/25`.
+Last update `06/16/25`.
 
 ## Set-up :wrench:
 To add them into your Roblox Studio all you need to follow some simple steps:
